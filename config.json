@@ -25,12 +25,12 @@
   },
   "roles": {
     "Free": {
-      "quality": 720,
-      "daily": 10,
-      "parallel": 1,
-      "speed": 2048,
+      "quality": 0,
+      "daily": 0,
+      "parallel": 5,
+      "speed": 0,
       "audio": true,
-      "playlist": false,
+      "playlist": true,
       "browser": true,
       "whatsapp": true,
       "ads": true
@@ -38,7 +38,7 @@
     "VIP": {
       "quality": 0,
       "daily": 0,
-      "parallel": 3,
+      "parallel": 5,
       "speed": 0,
       "audio": true,
       "playlist": true,
@@ -55,5 +55,5 @@
       "until": 1795218658
     }
   },
-  "updated": 1792626664
+  "updated": 1792627068
 }
