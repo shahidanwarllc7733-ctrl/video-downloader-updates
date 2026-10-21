@@ -15,9 +15,9 @@
     "channel": "nightly"
   },
   "message": {
-    "id": 1792623042,
+    "id": 1792626536,
     "on": true,
-    "title": "Kesay ho ap log",
+    "title": "hello",
     "body": "koe issue to nahi app may?",
     "button": "",
     "url": "",
@@ -48,5 +48,5 @@
     }
   },
   "users": {},
-  "updated": 1792623771
+  "updated": 1792626536
 }
