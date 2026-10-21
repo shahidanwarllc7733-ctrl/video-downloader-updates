@@ -15,7 +15,7 @@
     "channel": "nightly"
   },
   "message": {
-    "id": 1792626536,
+    "id": 1792626664,
     "on": true,
     "title": "hello",
     "body": "koe issue to nahi app may?",
@@ -47,6 +47,13 @@
       "ads": false
     }
   },
-  "users": {},
-  "updated": 1792626536
+  "users": {
+    "9395b720334b2285": {
+      "role": "VIP",
+      "label": "Sohail Khan",
+      "note": "",
+      "until": 1795218658
+    }
+  },
+  "updated": 1792626664
 }
