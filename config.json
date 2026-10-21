@@ -1,0 +1,52 @@
+{
+  "v": 1,
+  "maintenance": {
+    "on": false,
+    "msg": "App abhi maintenance mein hai. Thori der baad try karein."
+  },
+  "kill": {
+    "on": false,
+    "msg": "Ye app band kar di gayi hai."
+  },
+  "minVersion": 0,
+  "defaultRole": "Free",
+  "engine": {
+    "updateId": 0,
+    "channel": "nightly"
+  },
+  "message": {
+    "id": 1792623042,
+    "on": true,
+    "title": "Kesay ho ap log",
+    "body": "koe issue to nahi app may?",
+    "button": "",
+    "url": "",
+    "target": "all"
+  },
+  "roles": {
+    "Free": {
+      "quality": 720,
+      "daily": 10,
+      "parallel": 1,
+      "speed": 2048,
+      "audio": true,
+      "playlist": false,
+      "browser": true,
+      "whatsapp": true,
+      "ads": true
+    },
+    "VIP": {
+      "quality": 0,
+      "daily": 0,
+      "parallel": 3,
+      "speed": 0,
+      "audio": true,
+      "playlist": true,
+      "browser": true,
+      "whatsapp": true,
+      "ads": false
+    }
+  },
+  "users": {},
+  "updated": 1792623042
+}
