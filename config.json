@@ -15,10 +15,10 @@
     "channel": "nightly"
   },
   "message": {
-    "id": 1792628127,
-    "on": false,
-    "title": "",
-    "body": "",
+    "id": 1792628686,
+    "on": true,
+    "title": "hello",
+    "body": "hello kesay hay ap log",
     "button": "",
     "url": "",
     "target": "all"
@@ -55,5 +55,5 @@
       "until": 1795218658
     }
   },
-  "updated": 1792628127
+  "updated": 1792628686
 }
