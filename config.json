@@ -49,11 +49,11 @@
   },
   "users": {
     "9395b720334b2285": {
-      "role": "VIP",
+      "role": "Blocked",
       "label": "Sohail Khan",
       "note": "",
-      "until": 1795220812
+      "until": 0
     }
   },
-  "updated": 1792628904
+  "updated": 1792628961
 }
