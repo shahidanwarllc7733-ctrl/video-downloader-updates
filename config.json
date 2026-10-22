@@ -15,8 +15,8 @@
     "channel": "nightly"
   },
   "message": {
-    "id": 1792627561,
-    "on": true,
+    "id": 1792628127,
+    "on": false,
     "title": "",
     "body": "",
     "button": "",
@@ -55,5 +55,5 @@
       "until": 1795218658
     }
   },
-  "updated": 1792628113
+  "updated": 1792628127
 }
