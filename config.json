@@ -1,8 +1,8 @@
 {
   "v": 1,
   "maintenance": {
-    "on": false,
-    "msg": "App abhi maintenance mein hai. Thori der baad try karein. hello"
+    "on": true,
+    "msg": "App abhi maintenance mein hai. Thori der baad try karein.  Thank you "
   },
   "kill": {
     "on": false,
@@ -48,5 +48,5 @@
     }
   },
   "users": {},
-  "updated": 1792628712
+  "updated": 1792628752
 }
