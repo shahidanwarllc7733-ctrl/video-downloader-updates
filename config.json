@@ -47,13 +47,6 @@
       "ads": false
     }
   },
-  "users": {
-    "9395b720334b2285": {
-      "role": "VIP",
-      "label": "Sohail Khan",
-      "note": "",
-      "until": 1795218658
-    }
-  },
-  "updated": 1792628686
+  "users": {},
+  "updated": 1792628712
 }
