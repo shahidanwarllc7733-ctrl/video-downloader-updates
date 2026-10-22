@@ -5,7 +5,7 @@
     "msg": "App abhi maintenance mein hai. Thori der baad try karein. hello"
   },
   "kill": {
-    "on": false,
+    "on": true,
     "msg": "Ye app band kar di gayi hai."
   },
   "minVersion": 0,
@@ -55,5 +55,5 @@
       "until": 1795218658
     }
   },
-  "updated": 1792627901
+  "updated": 1792627993
 }
