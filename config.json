@@ -15,12 +15,12 @@
     "channel": "nightly"
   },
   "message": {
-    "id": 1792629399,
+    "id": 1792629616,
     "on": true,
     "title": "hello",
-    "body": "Tamam User apni Setting may Ja kr mobile Id bej dey mujy .. whatsapp per ",
+    "body": "Tamam User apni App ki Setting may Ja kr mobile Id bej dey mujy .. whatsapp per ",
     "button": "",
-    "url": "",
+    "url": "Message S K on WhatsApp. https:\/\/wa.me\/923496471951",
     "target": "all"
   },
   "roles": {
@@ -55,5 +55,5 @@
       "until": 0
     }
   },
-  "updated": 1792629399
+  "updated": 1792629616
 }
