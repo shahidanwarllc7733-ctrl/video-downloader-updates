@@ -15,10 +15,10 @@
     "channel": "nightly"
   },
   "message": {
-    "id": 1792628686,
+    "id": 1792629399,
     "on": true,
     "title": "hello",
-    "body": "hello kesay hay ap log",
+    "body": "Tamam User apni Setting may Ja kr mobile Id bej dey mujy .. whatsapp per ",
     "button": "",
     "url": "",
     "target": "all"
@@ -48,12 +48,12 @@
     }
   },
   "users": {
-    "9395b720334b2285": {
+    "624508c1bc0c942a": {
       "role": "VIP",
-      "label": "Sohail Khan",
+      "label": "Usama Jabbar",
       "note": "",
-      "until": 1795221015
+      "until": 0
     }
   },
-  "updated": 1792629155
+  "updated": 1792629399
 }
