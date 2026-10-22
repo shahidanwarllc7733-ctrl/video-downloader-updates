@@ -1,7 +1,7 @@
 {
   "v": 1,
   "maintenance": {
-    "on": false,
+    "on": true,
     "msg": "App abhi maintenance mein hai. Thori der baad try karein."
   },
   "kill": {
@@ -15,10 +15,10 @@
     "channel": "nightly"
   },
   "message": {
-    "id": 1792626664,
+    "id": 1792627561,
     "on": true,
-    "title": "hello",
-    "body": "koe issue to nahi app may?",
+    "title": "",
+    "body": "",
     "button": "",
     "url": "",
     "target": "all"
@@ -55,5 +55,5 @@
       "until": 1795218658
     }
   },
-  "updated": 1792627068
+  "updated": 1792627561
 }
