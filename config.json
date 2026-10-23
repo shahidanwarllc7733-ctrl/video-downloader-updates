@@ -15,12 +15,12 @@
     "channel": "nightly"
   },
   "message": {
-    "id": 1792629675,
+    "id": 1792723079,
     "on": true,
-    "title": "hello",
-    "body": "Tamam User apni App ki Setting may Ja kr mobile Id bej dey mujy .. whatsapp per ",
+    "title": "Kesay Hu bhai Ap",
+    "body": "",
     "button": "",
-    "url": "https:\/\/wa.me\/923496471951",
+    "url": "",
     "target": "all"
   },
   "roles": {
@@ -60,5 +60,5 @@
       "until": 1795310793
     }
   },
-  "updated": 1792722924
+  "updated": 1792723079
 }
