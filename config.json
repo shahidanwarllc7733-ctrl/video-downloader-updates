@@ -8,7 +8,7 @@
     "on": false,
     "msg": "Ye app band kar di gayi hai."
   },
-  "minVersion": 5,
+  "minVersion": 6,
   "defaultRole": "Free",
   "engine": {
     "updateId": 0,
@@ -60,5 +60,5 @@
       "until": 1795305133
     }
   },
-  "updated": 1792713147
+  "updated": 1792714434
 }
