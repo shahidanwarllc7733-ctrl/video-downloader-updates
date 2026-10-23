@@ -32,7 +32,7 @@
       "audio": true,
       "playlist": true,
       "browser": true,
-      "whatsapp": false,
+      "whatsapp": true,
       "ads": true
     },
     "VIP": {
@@ -55,5 +55,5 @@
       "until": 0
     }
   },
-  "updated": 1792717848
+  "updated": 1792718132
 }
