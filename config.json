@@ -1,7 +1,7 @@
 {
   "v": 1,
   "maintenance": {
-    "on": true,
+    "on": false,
     "msg": "App abhi maintenance mein hai. Thori der baad try karein.  Thank you "
   },
   "kill": {
@@ -60,5 +60,5 @@
       "until": 1795305133
     }
   },
-  "updated": 1792714660
+  "updated": 1792714677
 }
