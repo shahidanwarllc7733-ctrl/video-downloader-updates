@@ -11,7 +11,7 @@
   "minVersion": 9,
   "defaultRole": "Free",
   "engine": {
-    "updateId": 1792773816,
+    "updateId": 1792927004,
     "channel": "nightly"
   },
   "message": {
@@ -75,5 +75,5 @@
       "until": 1795432953
     }
   },
-  "updated": 1792840956
+  "updated": 1792927005
 }
