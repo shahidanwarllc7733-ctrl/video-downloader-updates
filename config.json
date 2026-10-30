@@ -25,9 +25,9 @@
   },
   "roles": {
     "Free": {
-      "quality": 480,
-      "daily": 5,
-      "parallel": 1,
+      "quality": 0,
+      "daily": 10,
+      "parallel": 5,
       "speed": 0,
       "audio": true,
       "playlist": true,
@@ -80,5 +80,5 @@
       "until": 1795792019
     }
   },
-  "updated": 1793200022
+  "updated": 1793395727
 }
